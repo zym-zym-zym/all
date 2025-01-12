@@ -1,0 +1,4 @@
+G:/zill/zill/NCC/cmake-build-release/CMakeFiles/NCC.dir
+G:/zill/zill/NCC/cmake-build-release/CMakeFiles/edit_cache.dir
+G:/zill/zill/NCC/cmake-build-release/CMakeFiles/rebuild_cache.dir
+G:/zill/zill/NCC/cmake-build-release/CMakeFiles/NCC_autogen.dir

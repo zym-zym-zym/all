@@ -1,0 +1,5 @@
+"G:\2022CLION\CLion 2022.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - NMake Makefiles" -S G:\zill\zill\NCC -B G:\zill\zill\NCC\cmake-build-release
+OPENMP FOUND
+-- Configuring done
+-- Generating done
+-- Build files have been written to: G:/zill/zill/NCC/cmake-build-release
